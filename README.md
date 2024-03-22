@@ -6,7 +6,7 @@
 
 3. Сформировать доменную модель для заданного текста.  Разработать тестовое покрытие для данной доменной модели
 
-![Untitled](src/Untitled.png)
+![Untitled](Untitled.png)
 
 1. Функция sin(x)
 2. Программный модуль для работы с биномиальной кучей (Logical Representation, http://www.cs.usfca.edu/~galles/visualization/BinomialQueue.html)
