@@ -9,7 +9,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class SinTests {
-    double eps = 0.1;
+    double eps = 0.001;
 
     @ParameterizedTest
     @ValueSource(doubles = {-2 * Math.PI, -Math.PI, -0.5 * Math.PI})
